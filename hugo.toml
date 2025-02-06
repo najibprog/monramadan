@@ -1,0 +1,7 @@
+baseURL = 'https://example.org/'
+languageCode = 'fr-fr'
+title = 'Mon ramadan'
+theme = 'ananke'
+
+
+contentDir = "content"
